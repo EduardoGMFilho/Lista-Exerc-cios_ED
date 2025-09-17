@@ -4,7 +4,7 @@ Este repositório reúne as soluções desenvolvidas para a lista de Estrutura d
 A atividade contempla 10 questões: 3 de Recursão e 7 de Árvores Binárias.
 
 
-Tecnologias e Ferramentas
+Tecnologias e Ferramentas:
 
 Linguagem: C
 
